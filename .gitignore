@@ -1,0 +1,8 @@
+*.mat
+*.h5
+
+/train
+/test
+/extra
+/checkpnts
+.ipynb_checkpoints/
